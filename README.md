@@ -1,4 +1,4 @@
-#My name is Luiza- ALexandra Poteca
+<h1 align="center">My name is Luiza- ALexandra Poteca </h1>
 
 
 - I'm currently looking for a part time/ fill time
