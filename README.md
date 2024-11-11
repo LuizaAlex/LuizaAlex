@@ -1,7 +1,7 @@
 <h1 align="center">My name is Luiza- ALexandra Poteca </h1>
 
 
-- I'm currently looking for a part time/ fill time
+- I'm currently looking for a part time/ full time
 
 - I’m learning: **Android Dev/ Java Dev**
 - How to reach me: **poteca.luiza@gmail.com**
