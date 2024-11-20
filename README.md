@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuizaAlex&show_icons=true&theme=dark" alt="GitHub Stats" height="200" width = "500" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaAlex&layout=compact&theme=dark&card_width=300" alt="Top Languages" height="200"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=LuizaAlex&show_icons=true&theme=dark" alt="GitHub Stats" height="150" " />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaAlex&layout=compact&theme=dark&card_width=300" alt="Top Languages" height="150"  />
   </div>
 </p>
 
