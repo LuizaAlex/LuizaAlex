@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
+<p align="center">
   <a href="https://developer.android.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" alt="Android" width="40" height="40"/> </a>
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
@@ -27,9 +27,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuizaAlex&show_icons=true&theme=dark" alt="GitHub Stats" height="150" " />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaAlex&layout=compact&theme=dark&card_width=300" alt="Top Languages" height="150"  />
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LuizaAlex&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaAlex&layout=compact&theme=dark&card_width=300" alt="Top Languages" height="150" />
   </div>
 </p>
 
