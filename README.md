@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Luiza-Alex👋</h1>
 
-<p align="center">🎯  Android and Java Developer | Open to Part-Time/Full-Time Opportunities</p>
+<p align="center">🎯  Software Developer | Open to Part-Time</p>
 
 ---
 
 ### 🚀 About Me
-- 🌱 **Currently Learning:** Android Development and Kotlin 
+- 🌱 **Currently Learning:** Golang
 - 📧 **How to reach me:** [poteca.luiza@gmail.com](mailto:poteca.luiza@gmail.com)  
 - 🔗 **LinkedIn:** [Luiza Potecă](https://www.linkedin.com/in/luiza-potec%C4%83-3ab224224/)
 
