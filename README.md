@@ -29,8 +29,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizaAlex&show_icons=true&theme=dark" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaAlex&layout=compact&theme=dark&card_width=300" height="175" />
+  <img src="https://<your-vercel-app>.vercel.app/api?username=LuizaAlex&show_icons=true&theme=dark" height="175" />
+  <img src="https://<your-vercel-app>.vercel.app/api/top-langs/?username=LuizaAlex&layout=compact&theme=dark&card_width=300" height="175" />
 </p>
 
   ## 📈 Profile Views
